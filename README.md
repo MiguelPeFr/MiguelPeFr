@@ -1,6 +1,6 @@
 # ¡Hola! Soy Miguel Pérez Fraguas 👋 🐥
 
-Soy **desarrollador de GenAI y entornos 3D**, apasionado por la intersección entre la inteligencia artificial y la creación de mundos virtuales.
+**Desarrollo GenAI y entornos 3D**, apasionado por la intersección entre la inteligencia artificial y la creación de mundos virtuales.
 
 ## 📍 Ubicación
 Madrid, España
