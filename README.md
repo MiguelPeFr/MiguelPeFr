@@ -18,6 +18,9 @@ Dominio en:
 ## ✨ Pasión
 Me entusiasma explorar las posibilidades de la inteligencia artificial aplicada a la creación de experiencias inmersivas y mundos virtuales. Actualmente estoy enfocado en profundizar mis conocimientos y habilidades en este ámbito.
 
+## ✨ Proyecto actual
+Voxelization - generación automática de modelos 3D voxel (.vox) a partir de prompt
+
 <!--
 **MiguelPeFr/MiguelPeFr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
