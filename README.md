@@ -21,7 +21,7 @@ Dominio en:
 |----------|-------------|-------------|
 | [Voxelization](https://huggingface.co/spaces/Miguelpef/voxelization) | Herramienta de conversión que permite transformar modelos 3D en formato GLB a representaciones voxelizadas en formato .vox, simplificando la creación de assets para entornos voxel. | `🎮 Trimesh` `🖥️ Gradio` `🐍 Python` `🎨 PyVox` `🤖 Numpy` `🛠️ Open3D` `🎯 Machine Learning`|
 | [ExercIA](https://github.com/MiguelPeFr/ExercIA-app) | ExercIA es una aplicación de asistencia para entrenamiento interactivo que ayuda a los usuarios generando planes de entrenamiento personalizados y proporcionando un sistema dinámico de preguntas y respuestas con retroalimentación en tiempo real. | `🛠️ Python` `🤖 Google AI` `🎯 FastAPI` `🎨 NodeJS` `📱 Chakra UI` `🗄️ FastAPI` |
-| [Mercadona Agent](https://github.com/MiguelPeFr/MiguelPeFr) | Un chatbot inteligente diseñado para proporcionar información detallada sobre productos y comidas del supermercado Mercadona | `🤖 LangChain` `🧠 DeepSeek R1` `🐍 Python` `💾 ChromaDB` |
+| [Mercadona Agent](https://github.com/MiguelPeFr/MercadonaAIAgent) | Un chatbot inteligente diseñado para proporcionar información detallada sobre productos y comidas del supermercado Mercadona | `🤖 LangChain` `🧠 DeepSeek R1` `🐍 Python` `💾 ChromaDB` |
 | [Voxel Viewer](https://github.com/MiguelPeFr/voxel-viewer-gradio) | Una aplicación web construida con Gradio que permite a los usuarios visualizar e interactuar con modelos voxel 3D en formato .vox | `🎮 Numpy` `🖥️ Gradio` `🐍 Python` `🎨 PyVox` `🤖 Plotly` |
 
 ## ✨ Pasión
